@@ -20,3 +20,13 @@ h1,
 h2 {
     color: darkslateblue;
 }
+
+span {
+    color: #81B29A;
+}
+
+.tag {
+    background-color: #9a031e;
+    color: #f4f1de;
+    font-size: 16px;
+}
