@@ -53,3 +53,11 @@ footer a {
 .post:nth-of-type(2n) {
     background-color: #dbd9c8;
 }
+
+.post h2::first-letter {
+    font-size: 35px;
+}
+
+::selection {
+    background-color: #ffbe0b;
+}
