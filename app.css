@@ -1,9 +1,19 @@
-* {
+/* * {
     background-color: powderblue;
+} */
+
+body {
+    background-color: #f4f1de;
 }
 
 button {
     font-size: 30px;
+    background-color: #E07A5F;
+}
+
+#signup {
+    background-color: #3D405B;
+    color: #F4F1DE;
 }
 
 h1,
