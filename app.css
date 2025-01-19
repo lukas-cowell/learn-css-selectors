@@ -33,8 +33,23 @@ span {
 
 .post a {
     color: #81B29A;
+    text-decoration: none;
+    font-weight: 700;
 }
 
 footer a {
     color: #9a031e;
+}
+
+.post button:hover {
+    background-color: #9a031e;
+    color: #F4F1DE;
+}
+
+.post a:hover {
+    text-decoration: underline;
+}
+
+.post:nth-of-type(2n) {
+    background-color: #dbd9c8;
 }
