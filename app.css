@@ -65,3 +65,11 @@ footer a {
 nav button {
     background-color: #E07A5F !important;
 }
+
+.inherittest {
+    color: darkslateblue;
+}
+
+.inherittest button {
+    color: inherit;
+}
