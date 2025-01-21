@@ -61,3 +61,7 @@ footer a {
 ::selection {
     background-color: #ffbe0b;
 }
+
+nav button {
+    background-color: #E07A5F !important;
+}
